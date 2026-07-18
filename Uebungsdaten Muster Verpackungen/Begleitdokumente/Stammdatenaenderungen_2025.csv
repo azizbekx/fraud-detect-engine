@@ -1,0 +1,20 @@
+DATUM;ART;KONTO;NAME;FELD;WERT_ALT;WERT_NEU;GEAENDERT_VON;GENEHMIGT_VON;GENEHMIGT
+08.01.2025;Debitor;100129;ALPHA PAPIER E.K.;Name/Firmierung;alt;neu;MV-U08;MV-U02;Ja
+11.01.2025;Kreditor;200065;Reiher Kunststoff GmbH;Mahnsperre;alt;neu;MV-U03;MV-U02;Ja
+17.01.2025;Kreditor;200012;Orion Distribution SE;Adresse;alt;neu;MV-U08;MV-U02;Ja
+18.03.2025;Kreditor;200022;Solum Kunststoff GmbH;Zahlungsziel;alt;neu;MV-U03;MV-U02;Ja
+20.03.2025;Kreditor;200086;Adler Papier GmbH;USt-IdNr.;alt;neu;MV-U11;MV-U02;Ja
+10.04.2025;Kreditor;200061;Iris Etiketten SE;Zahlungsziel;alt;neu;MV-U03;MV-U02;Ja
+12.05.2025;Kreditor;209101;Ratio Consulting GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U05;MV-U05;Ja
+19.05.2025;Kreditor;200045;Ost Industriebedarf GmbH;Mahnsperre;alt;neu;MV-U08;MV-U02;Ja
+20.05.2025;Kreditor;200076;Alpha Beschichtung e.K.;Adresse;alt;neu;MV-U03;MV-U02;Ja
+03.06.2025;Kreditor;209112;Vega Werkstoffe GmbH;Neuanlage Kreditor;;angelegt inkl. Bankverbindung;MV-U03;MV-U02;Ja
+18.06.2025;Debitor;100083;MERKUR MASCHINEN GMBH;Zahlungsziel;alt;neu;MV-U11;MV-U02;Ja
+21.06.2025;Kreditor;200121;Vega Kunststoff AG;Zahlungsziel;alt;neu;MV-U08;MV-U02;Ja
+14.09.2025;Kreditor;200075;Delta Logistik SE;Bankverbindung;DE..alt;DE..neu;MV-U03;MV-U02;Ja
+22.10.2025;Debitor;100015;OST WERKSTOFFE AG;Adresse;alt;neu;MV-U08;MV-U02;Ja
+23.10.2025;Kreditor;200086;Adler Papier GmbH;Adresse;alt;neu;MV-U11;MV-U02;Ja
+23.10.2025;Debitor;100132;CORVUS CHEMIE KG;USt-IdNr.;alt;neu;MV-U08;MV-U02;Ja
+03.11.2025;Debitor;100134;SOLUM TRANSPORT E.K.;Mahnsperre;alt;neu;MV-U11;MV-U02;Ja
+13.11.2025;Debitor;100006;SÜD DRUCK GMBH;USt-IdNr.;alt;neu;MV-U11;MV-U02;Ja
+24.12.2025;Kreditor;200093;Pactum Druck GmbH;Zahlungsziel;alt;neu;MV-U11;MV-U02;Ja

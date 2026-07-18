@@ -1,0 +1,22 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+*.pyo
+*.duckdb
+Uebungsdaten Muster Verpackungen.zip
+.fraud-detect-data/
+backend/.fraud-detect-data/
+backend/.venv/
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
+.osgrep/
+.pnpm-store/
+output/playwright/
+

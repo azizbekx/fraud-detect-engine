@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE DataSet SYSTEM "gdpdu-01-08-2002.dtd">
+<DataSet>
+  <Version>1</Version>
+  <DataSupplier>
+    <Name>Muster Verpackungen GmbH</Name>
+    <Location>Werkstraße 3
+55116 Musterhausen
+Germany</Location>
+    <Comment>Debitoren 2025</Comment>
+  </DataSupplier>
+  <Media>
+    <Name>1</Name>
+    <Table>
+      <URL>Kunden.txt</URL>
+      <Name>Kunden</Name>
+      <Description>Kunden</Description>
+      <VariableLength>
+        <TextEncapsulator>"</TextEncapsulator>
+        <VariableColumn>
+          <Name>KUNDENKONTONUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KUNDENUSTIDNR</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KUNDENSTRASSE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KUNDENPLZ</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KUNDENORT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KUNDENSTAAT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KUNDENNAME</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>KUNDENGRUPPE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>F1</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>F2</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>F3</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>MWST_GRUPPE</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>WAEHRUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+      </VariableLength>
+    </Table>
+    <Table>
+      <URL>Kundenbuchungen.txt</URL>
+      <Name>Kundenbuchungen</Name>
+      <Description>Kundenbuchungen</Description>
+      <VariableLength>
+        <TextEncapsulator>"</TextEncapsulator>
+        <VariableColumn>
+          <Name>KUNDENKONTONUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSNUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BELEGDATUM</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BELEGNUMMER</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSDATUM</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSTEXT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSBETRAG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSWÄHRUNG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSWERT</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>LETZTER_AUSGLEICHSBELEG</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>LETZTER_AUSGLEICH</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+        <VariableColumn>
+          <Name>BUCHUNGSART</Name>
+          <AlphaNumeric />
+        </VariableColumn>
+      </VariableLength>
+    </Table>
+  </Media>
+</DataSet>
